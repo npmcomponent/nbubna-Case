@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [nbubna/case](http://github.com/nbubna/case). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/nbubna-case`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 ### Case: An extensible utility to convert, identify, and flip string case.
 
 Download: [Case.min.js][prod]  or  [Case.js][dev] [![Build Status](https://travis-ci.org/nbubna/Case.png?branch=master)](https://travis-ci.org/nbubna/Case)  
